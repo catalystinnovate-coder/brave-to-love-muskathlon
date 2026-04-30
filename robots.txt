@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bravexmuskathalon.co.za/sitemap.xml
